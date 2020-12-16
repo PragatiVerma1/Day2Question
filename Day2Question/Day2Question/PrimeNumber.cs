@@ -14,6 +14,7 @@ namespace Day2Question
             int min = int.Parse(Console.ReadLine());
             int max = int.Parse(Console.ReadLine());
             Console.WriteLine($"Prime Numbers between {min} and {max} are");
+            Console.WriteLine("My name is Pramila Srinivasan");
             for (int i = min; i <= max; i++)
             {
                 int counter = 0;
