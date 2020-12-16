@@ -1,0 +1,7 @@
+D:\LTI\DevOps\Day2 Assignment\Day2Question\Day2Question\bin\Debug\Day2Question.exe.config
+D:\LTI\DevOps\Day2 Assignment\Day2Question\Day2Question\bin\Debug\Day2Question.exe
+D:\LTI\DevOps\Day2 Assignment\Day2Question\Day2Question\bin\Debug\Day2Question.pdb
+D:\LTI\DevOps\Day2 Assignment\Day2Question\Day2Question\obj\Debug\Day2Question.csprojAssemblyReference.cache
+D:\LTI\DevOps\Day2 Assignment\Day2Question\Day2Question\obj\Debug\Day2Question.csproj.CoreCompileInputs.cache
+D:\LTI\DevOps\Day2 Assignment\Day2Question\Day2Question\obj\Debug\Day2Question.exe
+D:\LTI\DevOps\Day2 Assignment\Day2Question\Day2Question\obj\Debug\Day2Question.pdb
